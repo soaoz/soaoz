@@ -16,11 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Soyoung%20Github&fontSize=90)
-# ✨Hello! SoYoung World! 👋
+
 
 # 💜Introduction
-안녕하세요! 풀스택 신입 개발자입니다.
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1004661@gmail.com)
+
+<p>안녕하세요! 풀스택 신입 개발자 박소영입니다.<br> 현재 경기도 안산에 거주중이며 <br> 2022.10~2023.05 7개월동안 강남의 KH정보교육원 자바기반 풀스택 개발자 교육을 수료했습니다. </p>
+
+
+[![Gmail](https://img.shields.io/badge/1004661@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1004661@gmail.com)
+[![tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://parkjava.tistory.com/)
+[![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://weak-almandine-9ac.notion.site/Soyoung-s-Home-410a64eed05c4860b23d7efe64addb34)
 ---
 # 💜Skills
 ### 💡Platforms & Languages
@@ -48,3 +53,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaoz&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=soaoz&show_icons=true">
+
