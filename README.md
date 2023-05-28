@@ -14,20 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 성별
 - ⚡ Fun fact: ... 나에대한 재밌는 사실 
 -->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Soyoung%20Github&fontSize=90)
 
 
 # 💜Introduction
-
+<br>
 <p>안녕하세요! 풀스택 신입 개발자 박소영입니다.<br> 현재 경기도 안산에 거주중이며 <br> 2022.10~2023.05 7개월동안 강남의 KH정보교육원 자바기반 풀스택 개발자 교육을 수료했습니다. </p>
-
+<br><br>
 
 [![Gmail](https://img.shields.io/badge/1004661@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1004661@gmail.com)
 [![tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://parkjava.tistory.com/)
 [![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://weak-almandine-9ac.notion.site/Soyoung-s-Home-410a64eed05c4860b23d7efe64addb34)
----
+<br><br><br>
+
 # 💜Skills
+
+<br>
+
 ### 💡Platforms & Languages
 
 
@@ -43,6 +46,7 @@ Here are some ideas to get you started:
 ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
+<br>
 
 ### 💡Tools
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
@@ -53,4 +57,3 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaoz&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=soaoz&show_icons=true">
-
