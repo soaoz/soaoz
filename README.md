@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # 💜Introduction
 <br>
-<p>안녕하세요! 풀스택 신입 개발자 박소영입니다.<br> 현재 경기도 안산에 거주중이며 <br> 2022.10~2023.05 7개월동안 강남의 KH정보교육원 자바기반 풀스택 개발자 교육을 수료했습니다. </p>
+<p>안녕하세요! 풀스택 신입 개발자 박소영입니다! <br> 2022.10~2023.05 7개월간 강남의 KH정보교육원에서 자바기반 풀스택 개발자 교육을 수료했습니다. 총 두개의 프로젝트를 완성했으며 현재 목표는 저의 프로필을 좀 더 멋지게 의미있는 것들로 채워 나가는 것 입니다.😊 </p>
 <br><br>
 
 [![Gmail](https://img.shields.io/badge/1004661@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1004661@gmail.com)
@@ -53,7 +53,11 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
----
 
+<br>
+
+-----
+
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaoz&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=soaoz&show_icons=true">
